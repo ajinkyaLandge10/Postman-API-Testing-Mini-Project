@@ -1,0 +1,24 @@
+# ===== Postman =====
+.postman/
+postman-cache/
+postman-local/
+
+# ===== Environment / Secrets =====
+.env
+.env.*
+!.env.example
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.iml
+
+# ===== OS Generated Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs / Temporary Files =====
+*.log
+*.tmp
+*.temp
